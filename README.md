@@ -1,2 +1,2 @@
 # Login_PHP
-Simple PHP login and register website
+Simple PHP website made only for login and register purposes. You can visualize the entire database from within the website.
