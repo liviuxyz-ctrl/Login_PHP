@@ -1,7 +1,7 @@
 <?php
 include_once 'functions_inc.php';
-//NU UITA SA nu pui SPATIU
 
+//This is for development only
 $serverName = "localhost";
 $dBUsername = "root";
 $dBPassword = "";
